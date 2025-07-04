@@ -2,5 +2,5 @@
 ## Title: TurtleAuras
 ## Notes: Lightweight WeakAuras-style addon for Turtle WoW
 ## Version: 0.1
-## Author: yourname
+## Author: Aasiyah
 TurtleAuras.lua
