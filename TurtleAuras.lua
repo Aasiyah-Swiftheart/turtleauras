@@ -1,5 +1,6 @@
 local f = CreateFrame("Frame", "TurtleAurasFrame", UIParent)
-f:SetSize(200, 300)
+f:SetWidth(200)
+f:SetHeight(200)
 f:SetPoint("CENTER")
 f:SetBackdrop({
   bgFile = "Interface/Tooltips/UI-Tooltip-Background",
