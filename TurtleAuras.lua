@@ -1,4 +1,4 @@
-local f = CreateFrame("Frame", "TurtleAurasFrame", UIParent, "BackdropTemplate")
+local f = CreateFrame("Frame", "TurtleAurasFrame", UIParent)
 f:SetSize(200, 300)
 f:SetPoint("CENTER")
 f:SetBackdrop({
